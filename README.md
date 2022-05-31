@@ -1,5 +1,7 @@
 ## servo_motor_control
 
+![This is an image](./Servo.jpg)
+
 Install Servo library software module: 
 
 #include <Servo.h>
