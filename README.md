@@ -26,7 +26,7 @@ We sweep from pos = 0 to pos = 180 in steps of 1 degree:
 
     myservo.write(pos);     
 
-telling servo to go to position pos each time and waiting  waiting 15 ms for the servo to reach the position
+telling servo to go to position pos each time and waiting 15 ms for the servo to reach the position
   
     delay(15);                      
     
